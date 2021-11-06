@@ -2,3 +2,4 @@
 Prueba_BMP_JPG_wemos_ST7735_mini_SD_funciona
 Este repositorio contiene el uso de un lector SD y un display st7739 de 160x80 mini.
 montado sobre un wemos mini D1.
+Video del proyecto https://youtu.be/9SFF3B1LssQ
