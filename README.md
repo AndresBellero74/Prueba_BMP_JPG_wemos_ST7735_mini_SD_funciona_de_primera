@@ -1,0 +1,2 @@
+# Prueba_BMP_JPG_wemos_ST7735_mini_SD_funciona_de_primera
+Prueba_BMP_JPG_wemos_ST7735_mini_SD_funciona
